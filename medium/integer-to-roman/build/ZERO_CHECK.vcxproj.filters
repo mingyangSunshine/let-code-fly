@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\minsun01\git\let-code-fly\medium\integer-to-roman\build\CMakeFiles\05e626f4b4d8fde57ba5652c0295d919\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{C1B7E018-E307-3345-94C5-5B816FF50FB0}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
