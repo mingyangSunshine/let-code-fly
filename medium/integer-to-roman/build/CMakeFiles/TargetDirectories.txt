@@ -1,3 +1,0 @@
-C:/Users/minsun01/git/let-code-fly/medium/integer-to-roman/build/CMakeFiles/solution_test.dir
-C:/Users/minsun01/git/let-code-fly/medium/integer-to-roman/build/CMakeFiles/ALL_BUILD.dir
-C:/Users/minsun01/git/let-code-fly/medium/integer-to-roman/build/CMakeFiles/ZERO_CHECK.dir
