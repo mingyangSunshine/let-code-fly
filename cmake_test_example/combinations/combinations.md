@@ -36,6 +36,6 @@ public:
 ```
 
 # 注释
-1、本题所用思想为回溯和减枝，回溯通过`push_back()`与`pop_back`实现，
+1、本题所用思想为回溯和剪枝，回溯通过`push_back()`与`pop_back`实现，
     剪枝由`else if (n - start + 1 < k)`实现，条件不满足时，无需执行该分支。
 2、对二维vector的操作不够熟悉。
