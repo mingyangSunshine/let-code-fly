@@ -40,6 +40,7 @@ public:
         while (iter != nums.end()) {
             if (counter == 0) {
                 majority = *iter;
+                counter = 1;
             } else if (majority == *iter) {
                 counter++;
             } else {
