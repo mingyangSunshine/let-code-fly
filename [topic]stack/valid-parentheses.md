@@ -79,7 +79,7 @@ public:
         return stk_para.empty();
     }
 };
-
+```
 
  # note
  - use stack data structure.
