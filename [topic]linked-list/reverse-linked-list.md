@@ -73,7 +73,7 @@ public:
         }
         ListNode *res = reverseList(head->next);
         head->next->next = head;
-        head->next = NULL;  //can be changed to right value after return.
+        head->next = NULL;  //can be changed to the right value after return.
         return res;
     }
 }
