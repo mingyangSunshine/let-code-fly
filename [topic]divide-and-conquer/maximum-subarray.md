@@ -1,6 +1,6 @@
 | topic | difficulty | link |
 | ---   | ---        | ---  |
-| divide-and-conquer | easy | [detail](https://leetcode.com/problems/maximum-subarray/ |
+| divide-and-conquer | easy | [detail](https://leetcode.com/problems/maximum-subarray/) |
 
 # my solution - O(n) complexity.
 ```c++
