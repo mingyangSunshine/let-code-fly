@@ -1,6 +1,6 @@
 | topic | difficulty | link |
 | ---   | ---        | ---  |
-| math | dasy | [detail](https://leetcode.com/problems/add-digits/) |
+| math | easy | [detail](https://leetcode.com/problems/add-digits/) |
 
 ```c++
 class Solution {

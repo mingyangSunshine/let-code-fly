@@ -1,6 +1,6 @@
 | topic | difficulty | link |
 | ---   | ---        | ---  |
-| math | dasy | [detail](https://leetcode.com/problems/palindrome-number/) |
+| math | easy | [detail](https://leetcode.com/problems/palindrome-number/) |
 
 ```c++
 class Solution {

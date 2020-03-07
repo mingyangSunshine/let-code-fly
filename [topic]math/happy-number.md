@@ -1,6 +1,6 @@
 | topic | difficulty | link |
 | ---   | ---        | ---  |
-| math | dasy | [detail](https://leetcode.com/problems/happy-number/) |
+| math | easy | [detail](https://leetcode.com/problems/happy-number/) |
 
 # 最后的结果，如果不是1则是循环的，设置一个slow值，一个fast值记录，直到两者相等 Floyd's cycle detection algorithm
 
